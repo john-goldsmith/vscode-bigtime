@@ -11,6 +11,43 @@
 		"onCommand:extension.getDefaults"
 	],
 	"author": "John Goldsmith <johngoldsm1@gmail.com>",
+	"badges": [
+		{
+			"url": "https://travis-ci.org/john-goldsmith/vscode-bigtime.svg?branch=develop",
+			"href": "https://travis-ci.org/john-goldsmith/vscode-bigtime",
+			"description": "Travis CI Build Status"
+		},
+		{
+			"url": "https://api.codeclimate.com/v1/badges/6ef99dba3917a1d91650/test_coverage",
+			"href": "https://codeclimate.com/github/john-goldsmith/vscode-bigtime/test_coverage",
+			"description": "Code Climate Test Coverage"
+		},
+		{
+			"url": "https://api.codeclimate.com/v1/badges/6ef99dba3917a1d91650/maintainability",
+			"href": "https://codeclimate.com/github/john-goldsmith/vscode-bigtime/maintainability",
+			"description": "Code Climate Maintainability"
+		},
+		{
+			"url": "https://coveralls.io/repos/github/john-goldsmith/vscode-bigtime/badge.svg?branch=develop",
+			"href": "https://coveralls.io/github/john-goldsmith/vscode-bigtime?branch=develop",
+			"description": "Coveralls Coverage Status"
+		},
+		{
+			"url": "https://david-dm.org/john-goldsmith/vscode-bigtime.svg",
+			"href": "https://david-dm.org",
+			"description": "David DM"
+		},
+		{
+			"url": "https://snyk.io/test/github/john-goldsmith/vscode-bigtime/badge.svg",
+			"href": "https://snyk.io/test/github/john-goldsmith/vscode-bigtime",
+			"description": "Snyk Known Vulnerabilities"
+		},
+		{
+			"url": "https://badges.greenkeeper.io/john-goldsmith/vscode-bigtime.svg",
+			"href": "https://greenkeeper.io/",
+			"description": "Greenkeeper"
+		}
+	],
 	"bugs": "https://github.com/john-goldsmith/vscode-bigtime/issues",
 	"categories": [
 		"Other"
