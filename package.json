@@ -120,8 +120,8 @@
 		"vscode": "^1.32.1"
 	},
 	"galleryBanner": {
-		"color": "#F0D0CA",
-		"theme": "dark"
+		"color": "#FFFFFF",
+		"theme": "light"
 	},
 	"homepage": "https://github.com/john-goldsmith/vscode-bigtime",
 	"husky": {

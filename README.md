@@ -6,7 +6,8 @@ Log your time in [BigTime](https://www.bigtime.net/) straight from [VS Code](htt
 [![Maintainability](https://api.codeclimate.com/v1/badges/6ef99dba3917a1d91650/maintainability)](https://codeclimate.com/github/john-goldsmith/vscode-bigtime/maintainability)
 [![Coverage Status](https://coveralls.io/repos/github/john-goldsmith/vscode-bigtime/badge.svg?branch=develop)](https://coveralls.io/github/john-goldsmith/vscode-bigtime?branch=develop)
 [![David DM](https://david-dm.org/john-goldsmith/vscode-bigtime.svg)](https://david-dm.org)
-[![Known Vulnerabilities](https://snyk.io/test/github/john-goldsmith/vscode-bigtime/badge.svg)](https://snyk.io/test/github/john-goldsmith/vscode-bigtime) [![Greenkeeper badge](https://badges.greenkeeper.io/john-goldsmith/vscode-bigtime.svg)](https://greenkeeper.io/)
+[![Known Vulnerabilities](https://snyk.io/test/github/john-goldsmith/vscode-bigtime/badge.svg)](https://snyk.io/test/github/john-goldsmith/vscode-bigtime)
+[![Greenkeeper badge](https://badges.greenkeeper.io/john-goldsmith/vscode-bigtime.svg)](https://greenkeeper.io/)
 
 ## Features
 
