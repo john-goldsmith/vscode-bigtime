@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.1 - March 14, 2019
+
+* Fixed `galleryBanner.color` and `galleryBanner.theme` to look better on the Marketplace
+
 ## 1.0.0 - March 14, 2019
 
 Initial release. Features include:
