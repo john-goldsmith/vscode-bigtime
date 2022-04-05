@@ -100,7 +100,7 @@
 	},
 	"dependencies": {
 		"bigtime-sdk": "0.9.0",
-		"moment": "2.24.0"
+		"moment": "2.29.2"
 	},
 	"description": "Log your time using BigTime",
 	"devDependencies": {
